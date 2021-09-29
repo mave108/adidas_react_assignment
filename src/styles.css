@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.imgWrapper {
+  position: relative;
+  width: 315px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.loader {
+  position: absolute;
+  top: 45%;
+  left: 40%;
+}
